@@ -16,7 +16,7 @@ By releasing OM Sans as open-source, we hope to make a high-quality typeface ava
 
 - Organic Consistency: Every character, from "A" to "Z" and everything in between, follows the same organic design language with rounded corners and smooth curves.
 
-- Balanced Proportions: Key elements like crossbars (in letters such as "f" and "t") are aligned at the same height, providing a balanced visual structure across the font.
+- Balanced Proportions: Key elements like crossbars (in letters such as "f" and "t") are aligned at the same height as any other line at that height, providing a balanced visual structure across the font.
 
 - Geometric with a Natural Touch: The font combines clean, geometric shapes with subtle organic curves, making it versatile for both modern and creative uses.
 
